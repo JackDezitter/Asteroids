@@ -1,0 +1,18 @@
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\1.02.21\Lab03\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\1.02.21\Lab03\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Week 4\Lab03\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Week 4\Lab03\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Week 5\Lab05\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Week 5\Lab05\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\Downloads\Lab05\bin\Asteroids.pdb
+C:\Users\spide\Downloads\Lab05\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework with Title\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework with Title\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework\Coursework with Title + Life\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework\Coursework with Title + Life\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework\Coursework with Title + Life + AI\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework\Coursework with Title + Life + AI\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\Downloads\Coursework with Title + Life + AI\Coursework with Title + Life + AI\bin\Asteroids.pdb
+C:\Users\spide\Downloads\Coursework with Title + Life + AI\Coursework with Title + Life + AI\VC\Asteroids\Debug\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework\Documented Code\Coursework with Title + Life + AI\bin\Asteroids.pdb
+C:\Users\spide\OneDrive\Documents\UNI\Year 2\Games Tech\Coursework\Documented Code\Coursework with Title + Life + AI\VC\Asteroids\Debug\Asteroids.pdb
